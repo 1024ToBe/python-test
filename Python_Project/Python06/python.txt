@@ -1,0 +1,11 @@
+file:文件
+open:打开
+close:关闭
+line:行
+read:读取
+write:写入
+append:追加
+byte:字节
+binary:二进制
+
+
