@@ -5,7 +5,7 @@ client = socket.socket(
 )
 
 client.connect(
-    ('127.0.0.1',8888)
+    ('127.0.0.1',10001)
 )
 
 resv_data = client.recv(1024)

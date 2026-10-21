@@ -9,7 +9,7 @@ server.bind(
     ('127.0.0.1',8888)
 )
 
-#3.启动服务器，被客户端连接
+#3.监听服务器，被客户端连接
 server.listen()
 
 while True:
